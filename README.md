@@ -1,4 +1,4 @@
-<img width="2347" height="1436" alt="image" src="https://github.com/user-attachments/assets/22b7994a-ce1c-4b78-9e33-8341a24f2055" /># Software Engineering Project
+# Software Engineering Project
 
 ![Project Demo]
 
