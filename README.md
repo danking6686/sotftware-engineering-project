@@ -1,7 +1,9 @@
-# Software Engineering Project
+<img width="2347" height="1436" alt="image" src="https://github.com/user-attachments/assets/22b7994a-ce1c-4b78-9e33-8341a24f2055" /># Software Engineering Project
 
-![Project Demo](./assets/demo_image.png)
-*Graphical Abstract: Overview of the project in one image.*
+![Project Demo]
+
+*Graphical Abstract: Overview of the project in one image.*<img width="2347" height="1436" alt="屏幕截图 2026-03-25 174647" src="https://github.com/user-attachments/assets/292a7822-16a1-4711-a34a-32966cdf9e8a" />
+
 
 ## Project Overview
 
@@ -13,6 +15,7 @@ This repository contains a Unity project using C#, designed for game development
 - **Target Market:** Hobbyist gamers, independent developers, and educational environments seeking interactive Unity-based digital experiences.
 
 ## Software Development Plan
+
 
 ### Development Process Overview
 Agile is used, following iterations of planning, development, playtesting, and revision.
