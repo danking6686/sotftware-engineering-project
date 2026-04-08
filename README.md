@@ -25,8 +25,8 @@ Agile is used, following iterations of planning, development, playtesting, and r
 | Member          | Role             | Responsibility              |
 |-----------------|------------------|-----------------------------|
 | Danking         | Project Manager  | Planning, Core system       |
-|                 |                  |                             |
-|                 |                  |                             |
+| Wang jinhao     | Tester           | Maintenance and testing     |
+| Wong houhim     |                  | External software promotion |
 
 
 ### Division of Work
