@@ -26,7 +26,7 @@ Agile is used, following iterations of planning, development, playtesting, and r
 |-----------------|------------------|-----------------------------|
 | Danking         | Project Manager  | Planning, Core system       |
 | Wang jinhao     | Tester           | Maintenance and testing     |
-| Wong houhim     | External Promoter               | External software promotion |
+| Wong houhim     | External Promoter| External software promotion |
 
 
 ### Division of Work
@@ -34,6 +34,7 @@ Agile is used, following iterations of planning, development, playtesting, and r
 - **Lead Developer:** Coding, integrating features, code review
 - **Game Designer:** Level design, asset preparation
 - **QA/Tester:** Bug finding, playtesting, feature verification
+- **External Promoter:** Managing demo videos, project descriptions, external promotion
 
 ### Schedule
 
@@ -58,7 +59,7 @@ Agile is used, following iterations of planning, development, playtesting, and r
 
 ## Demonstration
 
-- **Demo video:** (https://youtu.be/YV-iK9k43rA?si=9eM-ckdwbVAIY5JY)
+- **Demo video:** (https://youtu.be/YV-iK9k43rA?si=9eM-ckdwbVAIY5JY) [Youtube]
 
 ## Development & Runtime Environment
 
