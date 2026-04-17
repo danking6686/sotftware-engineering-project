@@ -58,7 +58,7 @@ Agile is used, following iterations of planning, development, playtesting, and r
 
 ## Demonstration
 
-- **Demo video:** [Watch on YouTube](https://youtu.be/example_demo_link)
+- **Demo video:** [Watch on YouTube]([https://youtu.be/example_demo_link](https://youtu.be/YV-iK9k43rA?si=9eM-ckdwbVAIY5JY))
 
 ## Development & Runtime Environment
 
